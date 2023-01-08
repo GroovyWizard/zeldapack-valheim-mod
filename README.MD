@@ -7,6 +7,12 @@ Alpha 0.2.0
 No release right now, if you want to use this project check the general instructions below from Jotunn, and run the "Debug" task inside Visual Studio. 
 Note: Im embedding the Sword asset bundle directly into the binary, so  if you edit anything just remember to export "cheatsword" directly to the Solution folder otherwise the item will be missing!
 
+## GOALS: 
+
+1. Master Sword
+2. Hylian Shield 
+3. Majora´s Mask (enemies dont follow you)
+4. Link cap
 
 # Quick Setup Guide
 
