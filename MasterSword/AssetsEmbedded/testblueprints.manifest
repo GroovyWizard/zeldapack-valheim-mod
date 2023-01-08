@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3049268540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c020e47f5b7ea87d54bf8f1f1a784856
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 250261708b085b28981a0916bca99ca7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2094620348, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 825357479, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: -946862589, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+Assets:
+- Assets/Blueprints/Textures/runestone_LP_Material_AlbedoTransparency.png
+- Assets/Blueprints/Mesh/RuneStoneLow.mesh
+- Assets/Blueprints/make_testblueprint.prefab
+- Assets/Blueprints/Textures/runestone_LP_Material_Emission.png
+- Assets/Blueprints/Icons/BlueprintCopyIcon.png
+- Assets/Blueprints/Localization/German.json
+- Assets/Blueprints/piece_testblueprint.prefab
+- Assets/Blueprints/Textures/runestone_LP_Material_Normal.png
+- Assets/Blueprints/_BlueprintTestTable.prefab
+- Assets/Blueprints/BlueprintTestRune.prefab
+- Assets/Blueprints/Icons/BlueprintRuneIcon.png
+- Assets/Blueprints/Localization/English.json
+- Assets/Blueprints/Icons/BlueprintIcon.png
+- Assets/Blueprints/Materials/RuneMaterial.mat
+Dependencies: []

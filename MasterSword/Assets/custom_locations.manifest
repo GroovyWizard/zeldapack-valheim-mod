@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4266552350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c7c2d12a4cc479641aa76345e2aac15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec5bd373b3a40eae839800f044dfefb3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1521249158, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 712945444, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: -1463640641, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: -406614928, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+Assets:
+- Assets/Locations/SpawnerLocation.prefab
+Dependencies: []
