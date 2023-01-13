@@ -2,6 +2,7 @@ VALHEIM MASTER SWORD MOD
 Alpha 0.3.0 
 
 ![Untitled](https://user-images.githubusercontent.com/78284549/211183635-d6502bbb-fbf1-4535-b954-8809272d9524.png)
+![image](https://user-images.githubusercontent.com/78284549/212232629-0d69eddb-8568-4d00-b901-a9cfeebf7b30.png)
 
 
 Release 0.3.0 available at Thunderstore!
