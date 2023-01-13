@@ -43,10 +43,20 @@ namespace MasterSword
             masterSwordBundle.Unload(false);
         }
 
-       private void AddMockedItems()
+        private static void DeployHylianShield()
+        {
+            var hylianShieldBundle = AssetUtils.LoadAssetBundleFromResources("hylianshield");
+            Jotunn.Logger.LogInfo(hylianShieldBundle);
+            var hylianShield = hylianShieldBundle.LoadAsset<GameObject>("HylianShield");
+            ItemManager.Instance.AddItem(new CustomItem(hylianShield, fixReference: true));
+            hylianShieldBundle.Unload(false);
+        }
+
+        private void AddMockedItems()
         {
             MasterSword.DeployCheatySword();
             MasterSword.DeployMasterSword();
+            MasterSword.DeployHylianShield();
         }
         private void Awake()
         {

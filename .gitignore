@@ -451,3 +451,4 @@ crashlytics-build.properties
 
 
 MasterSwordUnity/
+!MasterSwordUnity/bundle-custom-assets.unitypackage
