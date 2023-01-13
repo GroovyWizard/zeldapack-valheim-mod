@@ -2,13 +2,6 @@
 Pack of TLOZ Items and Gear for Valheim. 
 Note: This is my first mod for valheim so please report any issues to my github.
 
-## Usage
-Youll need to use commands until i fix both recipes, ive used SilverSword and SkullShield prefabs and recipes, so probably you can craft them at your workbench anyway.
-Commands btw:
-1. devcommands
-2. spawn MasterSword
-3. spawn HylianShield
-
 ## Notes
 Got all models from Models Resource website https://www.models-resource.com/ ive only ported them to valheim
 

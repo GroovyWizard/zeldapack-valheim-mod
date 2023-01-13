@@ -54,7 +54,6 @@ namespace MasterSword
 
         private void AddMockedItems()
         {
-            MasterSword.DeployCheatySword();
             MasterSword.DeployMasterSword();
             MasterSword.DeployHylianShield();
         }
@@ -62,7 +61,7 @@ namespace MasterSword
         {
             AddMockedItems();
             // Jotunn comes with its own Logger class to provide a consistent Log style for all mods using it
-            Jotunn.Logger.LogInfo("MasterSword has landed");
+            Jotunn.Logger.LogInfo("Zeldapack has landed");
             
             // To learn more about Jotunn's features, go to
             // https://valheim-modding.github.io/Jotunn/tutorials/overview.html

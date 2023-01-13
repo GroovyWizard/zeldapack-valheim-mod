@@ -436,7 +436,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
 *.app
 
 # Crashlytics generated file
@@ -451,4 +450,3 @@ crashlytics-build.properties
 
 
 MasterSwordUnity/
-!MasterSwordUnity/bundle-custom-assets.unitypackage

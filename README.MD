@@ -10,6 +10,11 @@ https://valheim.thunderstore.io/package/os_guri_dos_mod/ZeldaPack/
 
 Note: Im embedding the Sword asset bundle directly into the binary, so  if you edit anything just remember to export "mastersword", "cheatsword" and "hylianshield" directly to the Solution folder otherwise the item will be missing!
 
+## CHANGELOG
+1. Fixed Purple effects on Master Sword (JVLMock_ prefix was missing in some effects)
+2. Bumped Armor values and block for Hylian Shield
+3. Updated Icon for Master Sword
+
 ## GOALS: 
 
 1. Master Sword
