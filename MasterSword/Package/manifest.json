@@ -1,9 +1,9 @@
 ﻿{
-  "name": "JotunnModStub",
-  "description": "",
-  "version_number": "0.0.1",
-  "website_url": "",
+  "name": "ZeldaPack",
+  "description": "A simple pack with TLOZ items and gear",
+  "version_number": "0.3.0",
+  "website_url": "https://github.com/GroovyWizard/zeldapack-valheim-mod",
   "dependencies": [
-    "ValheimModding-Jotunn-2.7.9",
+    "ValheimModding-Jotunn-2.7.9"
   ]
 }
