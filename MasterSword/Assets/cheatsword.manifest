@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1705660753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8be7072c23c693742517605cac71eaa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9d48439b12865a692f8b6c6d47c5898
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1521249158, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 825357479, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: -585565762, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: b27928b282fbc4e42905007debba74d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+Assets:
+- Assets/CheatSword/Material/JVLmock_weapons1.mat
+- Assets/CheatSword/Prefab/JVLmock_fx_block_camshake.prefab
+- Assets/CheatSword/Cheaty.prefab
+- Assets/CheatSword/Prefab/JVLmock_sfx_metal_blocked.prefab
+- Assets/CheatSword/Material/JVLmock_item_particle.mat
+- Assets/CheatSword/Prefab/JVLmock_vfx_blocked.prefab
+- Assets/CheatSword/Icon/JVLmock_SwordCheat.png
+- Assets/CheatSword/Material/JVLmock_club_trail.mat
+- Assets/CheatSword/Material/JVLmock_flame.mat
+- Assets/CheatSword/Mesh/JVLmock_longsword_Cube.asset
+- Assets/CheatSword/Prefab/JVLmock_fx_hit_camshake.prefab
+- Assets/CheatSword/Prefab/JVLmock_sfx_sword_hit.prefab
+- Assets/CheatSword/Prefab/JVLmock_fx_swing_camshake.prefab
+- Assets/CheatSword/Prefab/JVLmock_sfx_sword_swing.prefab
+- Assets/CheatSword/Prefab/JVLmock_vfx_HitSparks.prefab
+Dependencies: []

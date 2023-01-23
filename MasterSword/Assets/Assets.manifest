@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3642899969
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cheatsword
+      Dependencies: {}
+    Info_1:
+      Name: mastersword
+      Dependencies: {}
+    Info_2:
+      Name: hylianshield
+      Dependencies: {}
+    Info_3:
+      Name: majorasmask
+      Dependencies: {}

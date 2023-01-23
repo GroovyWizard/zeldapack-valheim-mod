@@ -51,15 +51,34 @@ namespace MasterSword
             ItemManager.Instance.AddItem(new CustomItem(hylianShield, fixReference: true));
             hylianShieldBundle.Unload(false);
         }
+        private static void DeployMajorasMask()
+        {
+            var majorasMaskBundle = AssetUtils.LoadAssetBundleFromResources("majorasmask");
+            Jotunn.Logger.LogInfo(majorasMaskBundle);
+            var majorasMask = majorasMaskBundle.LoadAsset<GameObject>("MajorasMask");
+            ItemManager.Instance.AddItem(new CustomItem(majorasMask, fixReference: true));
+            majorasMaskBundle.Unload(false);
+        }
+        private void AddRecipes()
+        {
+            // MajorasMask recipe
+            var majorasConfig = new RecipeConfig();
+            majorasConfig.Item = "MajorasMask"; // Name of the item prefab to be crafted
+            majorasConfig.AddRequirement(new RequirementConfig("Stone", 2));
+            majorasConfig.AddRequirement(new RequirementConfig("Wood", 1));
+            ItemManager.Instance.AddRecipe(new CustomRecipe(majorasConfig));
+        }
 
         private void AddMockedItems()
         {
             MasterSword.DeployMasterSword();
             MasterSword.DeployHylianShield();
+            MasterSword.DeployMajorasMask();
         }
         private void Awake()
         {
             AddMockedItems();
+            AddRecipes();
             // Jotunn comes with its own Logger class to provide a consistent Log style for all mods using it
             Jotunn.Logger.LogInfo("Zeldapack has landed");
             

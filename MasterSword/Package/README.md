@@ -1,39 +1,14 @@
-# ZeldaPack
-Pack of TLOZ Items and Gear for Valheim. 
-Note: This is my first mod for valheim so please report any issues to my github.
-
-## Usage
-Youll need to use commands until i fix both recipes, ive used SilverSword and SkullShield prefabs and recipes, so probably you can craft them at your workbench anyway.
-Commands btw:
-1. devcommands
-2. spawn MasterSword
-3. spawn HylianShield
-
-## Notes
-Got all models from Models Resource website https://www.models-resource.com/ ive only ported them to valheim
+﻿# JotunnModStub
+Upon building for release, this README.md is copied into the `Package` folder for thunderstore packaging. Remember to also edit the manifest.json and supply your own mod icon.
 
 ## Installation (manual)
-Thunderstore
+
 
 ## Features
-1. Hylian Shield
-2. Master Sword
+
 
 ## Changelog
-1. Fixed Purple effects on Master Sword (JVLMock_ prefix was missing in some effects)
-2. Bumped Armor values and block for Hylian Shield
-3. Updated Icon for Master Sword
 
-## Goals: 
-1. Master Sword
-2. Hylian Shield 
-3. Majora´s Mask (enemies dont follow you)
-4. Link cap
-
-## Mod Ideas and Suggestions
-Just open an Issue on the github project page or DM me on Discord:
-Lusca Gatos#3086
 
 ## Known issues
 You can find the github at:
-https://github.com/GroovyWizard/zeldapack-valheim-mod
